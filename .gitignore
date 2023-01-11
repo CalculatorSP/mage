@@ -152,7 +152,3 @@ build-output.log
 
 # Visual Studio Code
 .history
-Mage/AllPrintings.json.zip
-Mage.Tests/AllPrintings.json.zip
-Mage/db/cards.h2.mv.db
-Mage/db/cards.h2.trace.db
